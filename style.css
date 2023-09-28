@@ -1,4 +1,4 @@
-/* Estilos gerais */
+/* General Styles */
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
@@ -12,7 +12,7 @@ body {
     padding: 0 20px;
 }
 
-/* Estilos para a barra de navegação superior */
+/* Styles for the top navigation bar */
 .navbar-top {
     background-color: #333;
     color: #fff;
@@ -28,12 +28,12 @@ body {
     text-decoration: none;
 }
 
-/* Estilos para os ícones na barra de navegação */
+/* Styles for icons in the navigation bar */
 .navbar-top i {
     margin-right: 5px;
 }
 
-/* Estilos para o slider */
+/* Styles for the slider */
 .slider {
     position: relative;
 }
@@ -75,7 +75,7 @@ body {
     background-color: #555;
 }
 
-/* Estilos para a seção de serviços */
+/* Styles for the services section */
 .services {
     background-color: #fff;
     padding: 40px 0;
@@ -91,7 +91,7 @@ body {
     margin-bottom: 20px;
 }
 
-/* Estilos para a seção de captura de tela */
+/* Styles for the screenshot section */
 .screenshot {
     background-color: #333;
     color: #fff;
@@ -104,7 +104,7 @@ body {
     margin-bottom: 20px;
 }
 
-/* Estilos para a seção de recursos */
+/* Styles for the features section */
 .features {
     background-color: #fff;
     padding: 40px 0;
@@ -147,7 +147,7 @@ body {
     background-color: #555;
 }
 
-/* Estilos para a seção da equipe */
+/* Styles for the team section */
 .team-front {
     background-color: #333;
     color: #fff;
@@ -187,7 +187,7 @@ body {
     margin-right: 10px;
 }
 
-/* Estilos para a seção de citação */
+/* Styles for the quote section */
 .quote {
     background-color: #fff;
     padding: 40px 0;
@@ -217,7 +217,7 @@ body {
     background-color: #555;
 }
 
-/* Estilos para a seção de depoimentos */
+/* Styles for the testimonial section */
 .testimonial {
     background-color: #333;
     color: #fff;
@@ -244,7 +244,7 @@ body {
     margin-bottom: 10px;
 }
 
-/* Estilos para a seção de últimas notícias */
+/* Styles for the latest news section */
 .latest-news {
     background-color: #fff;
     padding: 40px 0;
@@ -286,7 +286,7 @@ body {
     color: #555;
 }
 
-/* Estilos para o rodapé */
+/* Styles for the footer */
 .footer {
     background-color: #333;
     color: #fff;
